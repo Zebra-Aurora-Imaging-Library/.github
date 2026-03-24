@@ -41,6 +41,7 @@ Additional examples to those included with the Aurora Imaging Library installati
 - **[MulticastMaster_MXSP6](https://github.com/Zebra-Aurora-Imaging-Library/MulticastMaster_MXSP6)**
 - **[MulticastMonitor_MXSP6](https://github.com/Zebra-Aurora-Imaging-Library/MulticastMonitor_MXSP6)**
 - **[MulticastSlave_MXSP6](https://github.com/Zebra-Aurora-Imaging-Library/MulticastSlave_MXSP6)**
+- **[NumpyInAIL_AIL11](https://github.com/Zebra-Aurora-Imaging-Library/NumpyInAIL_AIL11)**
 - **[PacketDelay_MXSP6](https://github.com/Zebra-Aurora-Imaging-Library/PacketDelay_MXSP6)**
 - **[Simple3dStitching_MXSP4](https://github.com/Zebra-Aurora-Imaging-Library/Simple3dStitching_MXSP4)**
 
