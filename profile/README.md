@@ -57,6 +57,8 @@ Repository for CaptureWorks Plugins
 - **[MultiAltizPlugin_MXSP7](https://github.com/Zebra-Aurora-Imaging-Library/MultiAltizPlugin_MXSP7)**
 
 ## **Aurora documentation**
-Use the links below to access the documentation for Aurora Imaging Library and related products. For the latest documentation, refer to the corresponding product’s support page (for example, zebra.com/ail-info). The general purpose of the documentation below is for AI use cases. You should consider these assets as experimental and they can potentially be updated.
-- **[Repo of AIL 11 PDF source documentation](https://github.com/Zebra-Aurora-Imaging-Library/MVI_MTL_DOC_PUBLIC_AIL11_PDF)**
-  - This can be useful, for example, for AI tools that work with PDFs. Since the content is currently too big for AI, the PDFs are packaged according the userguide PDF, and additional PDFs for each AIL  module.
+The following documentation assets are intended to be used with AI tools such as GitHub CoPilot and Gemini. You should consider these assets experimental; they will get updated periodically. For the latest official documentation, refer to the product’s support page (for example, zebra.com/ail-info).
+- **[MVI_MTL_DOC_PUBLIC_AIL11_MD](https://github.com/Zebra-Aurora-Imaging-Library/MVI_MTL_DOC_PUBLIC_AIL11_MD)**  
+  This repo contains the AIL 11 documentation as MD files. This can be used with AI tools to directly query the repo. For example, you can clone the repo and, using GitHub CoPilot with an Agent and a Claude model, you can ask, “Refer to MVI_MTL_DOC_PUBLIC_AIL11_MD and give me the steps to create an AIL application that will find a model and read a string. Also give the me the corresponding python code for this application.”
+- **[MVI_MTL_DOC_PUBLIC_AIL11_PDF](https://github.com/Zebra-Aurora-Imaging-Library/MVI_MTL_DOC_PUBLIC_AIL11_PDF)**  
+  This repo contains the AIL 11 documentation as PDF files. This can be used with AI tools that work with PDFs. You must download and unzip the PDFs. Since AI tools are generally unable to consume all content as one PDF, multiple PDFs are provided, one for every main component of the documentation, such as a PDF for the user guide and a PDF for every module. When using the PDFs with AI, you should include the ones you need, such as the User Guide PDF, and the PDF of the related modules.
