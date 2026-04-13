@@ -46,7 +46,7 @@ Additional examples to those included with the Aurora Imaging Library installati
 - **[Simple3dStitching_MXSP4](https://github.com/Zebra-Aurora-Imaging-Library/Simple3dStitching_MXSP4)**
 
 ## **Utilities**
-Additional utilities to those included with the Aurora Imaging Library installation, organized by minimum required update. Some of these examples may be included in a future update to MIL.
+Additional utilities to those included with the Aurora Imaging Library installation, organized by minimum required update. Some of these examples may be included in a future update to Aurora Imaging Library.
 - **[CocoToAILConverter_MXSP5](https://github.com/Zebra-Aurora-Imaging-Library/CocoToAILConverter_MXSP5)**
 - **[HBBLabeler_MXSP6](https://github.com/Zebra-Aurora-Imaging-Library/HBBLabeler_MXSP6)**
 - **[MdlocrDatasetManipulation_AIL11](https://github.com/Zebra-Aurora-Imaging-Library/MdlocrDatasetManipulation_AIL11)**
@@ -56,9 +56,7 @@ Additional utilities to those included with the Aurora Imaging Library installat
 Repository for CaptureWorks Plugins
 - **[MultiAltizPlugin_MXSP7](https://github.com/Zebra-Aurora-Imaging-Library/MultiAltizPlugin_MXSP7)**
 
-## **Aurora documentation**
-The following documentation assets are intended to be used with AI tools such as GitHub CoPilot and Gemini. You should consider these assets experimental; they will get updated periodically. For the latest official documentation, refer to the product’s support page (for example, zebra.com/ail-info).
+## **Documentation for AI**
+Experimental documentation you can use with AI tools such as GitHub CoPilot and Gemini. Official documentation is available from the product support page (https://zebra.com/ail-info). 
 - **[MVI_MTL_DOC_PUBLIC_AIL11_MD](https://github.com/Zebra-Aurora-Imaging-Library/MVI_MTL_DOC_PUBLIC_AIL11_MD)**  
-  This repo contains the AIL 11 documentation as MD files. This can be used with AI tools to directly query the repo. For example, you can clone the repo and, using GitHub CoPilot with an Agent and a Claude model, you can ask, “Refer to MVI_MTL_DOC_PUBLIC_AIL11_MD and give me the steps to create an AIL application that will find a model and read a string. Also give the me the corresponding python code for this application.”
 - **[MVI_MTL_DOC_PUBLIC_AIL11_PDF](https://github.com/Zebra-Aurora-Imaging-Library/MVI_MTL_DOC_PUBLIC_AIL11_PDF)**  
-  This repo contains the AIL 11 documentation as PDF files. This can be used with AI tools that work with PDFs. You must download and unzip the PDFs. Since AI tools are generally unable to consume all content as one PDF, multiple PDFs are provided, one for every main component of the documentation, such as a PDF for the user guide and a PDF for every module. When using the PDFs with AI, you should include the ones you need, such as the User Guide PDF, and the PDF of the related modules.
