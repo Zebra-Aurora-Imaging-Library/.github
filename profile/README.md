@@ -58,5 +58,6 @@ Repository for CaptureWorks Plugins
 
 ## **Documentation for AI (Preview)**
 Documentation you can use with AI tools such as GitHub CoPilot and Gemini. Official documentation is available from the product support page (https://zebra.com/ail-info). 
+- **[Getting Started: Aurora Imaging Library Documentation for AI](https://zebra-aurora-imaging-library.github.io/DOC_PUBLIC_AIL11_MD_HELP_SOURCE/GettingStartedWithDocumentationForAI.html)**  
 - **[DOC_PUBLIC_AIL11_MD](https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_MD)**  
 - **[DOC_PUBLIC_AIL11_PDF](https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_PDF)**  
