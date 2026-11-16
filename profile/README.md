@@ -56,7 +56,7 @@ Additional utilities to those included with the Aurora Imaging Library installat
 Repository for CaptureWorks Plugins
 - **[MultiAltizPlugin_MXSP7](https://github.com/Zebra-Aurora-Imaging-Library/MultiAltizPlugin_MXSP7)**
 
-## **Documentation for AI (Preview)**
+## **Documentation for AI**
 Documentation you can use with AI tools such as GitHub CoPilot and Gemini. Official documentation is available from the product support page (https://zebra.com/ail-info). 
 - **[Getting Started: Aurora Imaging Library Documentation for AI](https://zebra-aurora-imaging-library.github.io/DOC_PUBLIC_AIL11_MD_HELP_SOURCE/GettingStartedWithDocumentationForAI.html)**  
 - **[DOC_PUBLIC_AIL11_MD](https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_MD)**  
